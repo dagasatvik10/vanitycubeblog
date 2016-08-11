@@ -1,0 +1,211 @@
+# Translation of Button in German
+# This file is distributed under the same license as the Button package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-26 14:42:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Button\n"
+
+#. Description of the plugin/theme
+msgid "A stylish, lighthearted theme for crafters, hobbyists, and creatives."
+msgstr "Ein elegantes, aufgeräumtes Theme für HandarbeiterInnen, BastlerInnen und Kreative."
+
+#. Theme Name of the plugin/theme
+msgid "Button"
+msgstr "Button"
+
+#: inc/plugin-enhancements.php:288
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr "Um %1$s zu nutzen, aktiviere bitte das Jetpack Plugin&rsquo;s %2$s."
+
+#. Template Name of the plugin/theme
+msgid "Full Width, No Sidebar"
+msgstr "Volle Breite, Keine Seitenleiste"
+
+#: inc/plugin-enhancements.php:261
+msgid " Please install %1$s. %2$s"
+msgstr "Bitte installiere %1$s. %2$s"
+
+#: inc/plugin-enhancements.php:263
+msgid "Install"
+msgstr "Installieren"
+
+#: inc/plugin-enhancements.php:82
+msgid "The %1$s is required to use some of this theme&rsquo;s features, including: "
+msgstr "Das %1$s wird benötigt, um einige Features dieses Themes nutzen zu können, einschließlich: "
+
+#: inc/plugin-enhancements.php:83
+msgid "Jetpack plugin"
+msgstr "Jetpack Plugin"
+
+#: inc/plugin-enhancements.php:178
+msgid "no specific module needed"
+msgstr "kein spezifisches Modul benötigt"
+
+#: inc/plugin-enhancements.php:179
+msgid "Custom Content Types module"
+msgstr "Modul für Individuelle Inhaltstypen"
+
+#: inc/plugin-enhancements.php:251
+msgid " Please activate %1$s. %2$s"
+msgstr "Bitte aktiviere %1$s. %2$s"
+
+#: inc/plugin-enhancements.php:253
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Next Post</span> %title"
+msgstr "<span class=\"meta-nav\">Nächster Beitrag</span> %title"
+
+#: single.php:17
+msgid "<span class=\"meta-nav\">Previous Post</span> %title"
+msgstr "<span class=\"meta-nav\">Vorheriger Beitrag</span> %title"
+
+#. translators: used between list items, there is a space
+#: inc/template-tags.php:79
+msgid " &middot; "
+msgstr " &middot;"
+
+#: inc/template-tags.php:174
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Weiterlesen <span class=\"screen-reader-text\">%1$s</span>"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: inc/template-tags.php:46
+msgid "% Comments"
+msgstr "﻿% Kommentare"
+
+#: inc/template-tags.php:46
+msgid "1 Comment"
+msgstr "﻿1 Kommentar"
+
+#: inc/template-tags.php:38
+msgctxt "post format archives link"
+msgid "All %1$s posts"
+msgstr "Alle %1$s Beiträge"
+
+#: inc/template-tags.php:46
+msgid "Leave a comment"
+msgstr "Schreib einen Kommentar"
+
+#: header.php:39
+msgid "Menu"
+msgstr "Menü"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:180
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "an"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:174
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "an"
+
+#: functions.php:124
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: functions.php:48
+msgid "Social Links Menu"
+msgstr "Social-Links-Menü"
+
+#: functions.php:47
+msgid "Top Menu"
+msgstr "Top Menü"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s von %2$s"
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Stolz präsentiert von %s"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. translators: %s: Name of current post.
+#: components/content.php:50
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s weiterlesen <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/content-page.php:28 inc/template-tags.php:50
+msgid "Edit"
+msgstr "﻿Bearbeiten"
+
+#: components/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es sieht so aus, als ob wir nicht das finden konnten, wonach du gesucht hast. Möglicherweise hilft eine Suche."
+
+#: components/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Entschuldigung, aber zu deinen Suchbegriffen wurde nichts passendes gefunden. Bitte versuche es mit anderen Stichworten noch einmal."
+
+#: components/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bereit, deinen ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Starte hier</a>."
+
+#: components/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: comments.php:43 comments.php:65
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: comments.php:42 comments.php:64
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: comments.php:39 comments.php:61
+msgid "Comment navigation"
+msgstr "Kommentar-Navigation"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Gedanke zu &#8222;%2$s&#8220;"
+msgstr[1] "%1$s Gedanken zu &#8222;%2$s&#8220;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Es sieht so aus, als ob wir nicht das finden konnten, wonach du gesucht hast. Vielleicht hilft eine Suche?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Die Seite konnte leider nicht gefunden werden."
+
+#. Author URI of the plugin/theme
+msgid "http://automattic.com"
+msgstr "https://automattic.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.com/themes/button/"
+msgstr "https://wordpress.com/themes/button/"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
